@@ -1,0 +1,3 @@
+interface:
+  display_name: "生信分析"
+  short_description: "可复现的生物信息分析：输入检查、流程执行、结果验证与方法记录"
